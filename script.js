@@ -1,3 +1,5 @@
+// Thanks to Web Dev Simplified who's video I referenced when making this. https://youtu.be/j59qQ7YWLxw
+
 class Calculator {
     constructor(prev_op_text, curr_op_text) {
         this.prev_op_text = prev_op_text
